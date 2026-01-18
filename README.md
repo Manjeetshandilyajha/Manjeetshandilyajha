@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on BookMark App
+- 🔭 I’m currently working on Doctors appointment web app
 - 🌱 I’m currently learning Nextjs
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Full Stack
