@@ -20,42 +20,42 @@ I build **scalable, modern, and responsive web applications** and continuously u
 - 🎯 Goal: Become a professional **Full-Stack Software Engineer**
 
 ---
+### 🛠️ Technical Skills
 
-## 🛠️ Technical Skills  
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="60" height="60" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="60" height="60" title="Three.js"/>
 
-### 🌐 Frontend  
-- React.js  
-- Next.js *(learning)*  
-- Tailwind CSS  
-- Bootstrap  
-- Redux  
-- Three.js *(3D Web)*  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="60" height="60" title="Socket.IO"/>
 
-### ⚙️ Backend  
-- Node.js  
-- Express.js  
-- RESTful APIs  
-- JWT Authentication  
-- Socket.IO  
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" title="PostgreSQL"/>
 
-### 🗄️ Databases  
-- MongoDB  
-- PostgreSQL  
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" title="C"/>
 
-### 💻 Programming Languages  
-- JavaScript (ES6+)  
-- C / C++  
+  <!-- Tools & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" title="Linux"/>
 
-### 🤖 Generative AI (Learning)  
-- JavaScript-based AI integration  
-- Prompt engineering basics  
-- API-based AI usage  
-
-### ⚙️ Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux  
+  <!-- Generative AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JS AI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node AI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" title="Python AI"/>
+</p> 
 
 ---
 
@@ -93,3 +93,4 @@ I build **scalable, modern, and responsive web applications** and continuously u
 ---
 
 ✨ *Build real products. Learn deeply. Stay consistent.*
+
